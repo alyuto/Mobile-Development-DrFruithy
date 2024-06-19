@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "419369251069",
+    "firebase_url": "https://dbtest-a7bc7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dbtest-a7bc7",
+    "storage_bucket": "dbtest-a7bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419369251069:android:5458317b6c5d289b5bce94",
+        "android_client_info": {
+          "package_name": "com.dicoding.dbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzgmLCbr8DUZEJGZSaMLWMjrdhV88ep9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419369251069:android:d90052e99bf6df515bce94",
+        "android_client_info": {
+          "package_name": "com.dicoding.drfruithy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzgmLCbr8DUZEJGZSaMLWMjrdhV88ep9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
